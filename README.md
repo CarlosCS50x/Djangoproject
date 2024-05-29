@@ -31,6 +31,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+pip install mysqlclient
 ```
 
 Set up MySQL database:
